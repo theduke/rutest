@@ -13,3 +13,4 @@ jobs:
           cmake --version || echo NOOO cmake
           ninja --version || echo NOO ninja
           cc --version
+          python3 --version
